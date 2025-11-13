@@ -32,7 +32,7 @@ while attempt < 3:
     attempt += 1
 
 else:
-        print('попытки закончились')
+        print('Попытки закончились')
 
 #Проверка возраста.
 def plural_years(n):
